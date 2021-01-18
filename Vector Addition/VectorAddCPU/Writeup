@@ -1,0 +1,5 @@
+Be able to take two vector of any length and add them.
+1. Allocate your memory 
+2. Load your vectors
+3. Then add them
+4. Sum the result up and out put your result.
