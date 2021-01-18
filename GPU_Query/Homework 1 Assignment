@@ -1,7 +1,0 @@
-200For HW1:
--Run the query program found in the book.
--Run the VectorAdditionCPU with 100, 600, 2000 as N.
--Run the VectorAdditionGPU with 100, 600, 2000 as N.
--Save a copy of both with the following syntax:
-	-SmithHW1CPU.cu
-	-SmithHW1GPU.cu
